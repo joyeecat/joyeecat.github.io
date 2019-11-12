@@ -4,6 +4,6 @@ title: "Smoothing Spline ANOVA Models and Their Applications in Complex and Mass
 
 Jingyi Zhang, Honghe Jin, Ye Wang, Xiaoxiao Sun, Ping Ma and Wenxuan Zhong
 
-*InTechOpen*, 2018
+*InTechOpen*, 2018, published
 
 [[PDF]](http://joyeecat.github.io/files/Smoothing.pdf)
