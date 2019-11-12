@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Wuhan University, China, 2011
+* M.S. in Wuhan University, China, 2013
+* Ph.D in Statistics, the University of Georgia, 2020 (expected)
 
 Work experience
 ======
@@ -29,12 +29,10 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Softwares & Computing
+  * R
+  * Python
+  * SAS
 
 Publications
 ======
@@ -54,6 +52,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Dowload
 ======
-* Currently signed in to 43 different slack teams
+* https://github.com/joyeecat/joyeecat.github.io
