@@ -54,4 +54,4 @@ Teaching
   
 Download
 ======
-[PDF](https://github.com/joyeecat/joyeecat.github.io/blob/master/files/CV.pdf)
+[[PDF]](https://github.com/joyeecat/joyeecat.github.io/blob/master/files/CV.pdf)
