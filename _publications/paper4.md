@@ -4,4 +4,4 @@ title: "A decentralized parametric data fusion approach for heterogeneous scatte
 
 Jingyi Zhang, Cheng Meng, Wenxuan Zhong and Ping Ma
 
-*Journal of machine learuning research*, 2019, in preparation
+*Journal of Machine Learuning Research*, 2019, in preparation
