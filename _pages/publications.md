@@ -33,7 +33,7 @@ Shangpeng Sun, Yu Jiang, Cheng Meng, Jingyi Zhang, Ping Ma and Changying Li
 
 Prahatha Venkatraman, Ishara Mills-Henry, Karthik Ramaswamy Padmanabhan, Pete Pascuzzi, Menna Hassan, Jingyi Zhang, Xinlian Zhang, Ping Ma, John Dowling, Chi Pui Pang, Mingzhi Zhang, and Yuk Fai Leung
 
-*nvestigative Ophthalmology & Visual Science*, under review
+*Investigative Ophthalmology & Visual Science*, under review
 
 - **An optimal transport approach for selecting a representative subsample**
 
