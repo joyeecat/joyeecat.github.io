@@ -6,4 +6,4 @@ Jingyi Zhang, Honghe Jin, Ye Wang, Xiaoxiao Sun, Ping Ma and Wenxuan Zhong
 
 *InTechOpen*, 2018, published
 
-[[PDF]](http://joyeecat.github.io/files/Smoothing.pdf)
+[[PDF]](https://github.com/joyeecat/joyeecat.github.io/blob/master/files/Smoothing.pdf)
