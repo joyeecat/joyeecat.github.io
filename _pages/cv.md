@@ -52,6 +52,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Dowload
+Download
 ======
-* https://github.com/joyeecat/joyeecat.github.io
+
