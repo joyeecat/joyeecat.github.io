@@ -9,7 +9,7 @@ author_profile: true
 
 Jingyi Zhang, Honghe Jin, Ye Wang, Xiaoxiao Sun, Ping Ma and Wenxuan Zhong
 
-*InTechOpen*, 2018, published
+*InTechOpen*, 2018, published [[PDF]](https://joyeecat.github.io/files/Smoothing.pdf)
 
 - **Large-scale optimal transport map estimation using projection pursuit**
 
