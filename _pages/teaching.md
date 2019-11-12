@@ -19,8 +19,8 @@ author_profile: true
 
 - STAT 8270 Spatial Statistics, Spring 2017 & Spring 2019
 
-- STAT 8330 Advanced applying computing, Fall 2018
-
 - STAT 3000 Statistical Analysis, Summer 2017
+
+- STAT 8330 Advanced applying computing, Fall 2018
 
 - Statistics Bootcamp, Summer 2017 & Summer 2018
