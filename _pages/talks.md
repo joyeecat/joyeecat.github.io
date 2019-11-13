@@ -17,7 +17,7 @@ author_profile: true
 
 *Applications of statsitics in AI medical research*, Tsinghua University, Beijing, China, Jul, 2019
 
-*Machine learning for detecting coronary hear disease*, Beijing Hospital, Beijing, China, Jul, 2019
+*Machine learning for detecting coronary heart disease*, Beijing Hospital, Beijing, China, Jul, 2019
 
 - **Poster representation**
 
