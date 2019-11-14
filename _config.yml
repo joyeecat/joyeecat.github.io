@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jingyi Zhang's Homepage"
 title_separator          : "-"
 name                     : &name "Jingyi Zhang"
-description              : &description "PHD students in Big Data Analytics Lab"
+description              : &description "PhD students in Big Data Analytics Lab"
 url                      : https://joyeecat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "joyeecat/joyeecat.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jingyi Zhang"
   avatar           : "profile_jingyi.jfif"
-  bio              : "PHD student in Big Data Analytics Lab"
+  bio              : "PhD student in Big Data Analytics Lab"
   location         : "Athens, Georgia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
