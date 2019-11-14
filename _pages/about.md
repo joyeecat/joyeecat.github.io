@@ -12,6 +12,6 @@ My name is Jingyi Zhang. I am a PhD student in [Department of Statistics](https:
 
 Content information
 ======
-* Address: 526 Brooks Hall, Athens, GA 30602
+* Address: 537 Brooks Hall, Athens, GA 30602
 
 * Email: jingyi.zhang25@uga.edu 
