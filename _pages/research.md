@@ -11,7 +11,9 @@ My research interests lie in developing novel theoretically justifiable and comp
 
 * Statistical data fusion
 
-* Statistical machine learning
+* Dimension reduction
+
+* Non/Semi-parametric regression
 
 * Subsampling methods in big data
 
