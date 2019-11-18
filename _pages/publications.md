@@ -15,13 +15,13 @@ Jingyi Zhang, Honghe Jin, Ye Wang, Xiaoxiao Sun, Ping Ma and Wenxuan Zhong
 
 Cheng Meng, Yuan Ke, Jingyi Zhang, Mengrui Zhang, Wenxuan Zhong and Ping Ma
 
-*NeurIPS 2019*, accepted
+*NeurIPS 2019*, accepted [[PDF]](https://joyeecat.github.io/files/Large_scale_optimal_transport_map_approximation_using_projection_pursuit.pdf)
 
 - **More efficient computation of smoothing splines via space-filling basis selection**
 
 Cheng Meng, Xinlian Zhang, Jingyi Zhang, Wenxuan Zhong and Ping Ma
 
-*Biometrika*, accepted
+*Biometrika*, accepted [[PDF]](https://joyeecat.github.io/files/Biometrika.pdf)
 
 - **Automated plant node detection using terrestrial LiDAR data under field conditions**
 
